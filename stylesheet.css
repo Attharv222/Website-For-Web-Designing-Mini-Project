@@ -65,6 +65,12 @@ main{
     background-color: #000000;
 }
 
+.hero-section span{
+    position: absolute;
+    padding:  0% 17.5%;
+    z-index: 100;
+}
+
 .hero-section div {
     display: flex;
     background-image: url(https://images.pexels.com/photos/2683940/pexels-photo-2683940.jpeg);
